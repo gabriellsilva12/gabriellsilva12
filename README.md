@@ -15,7 +15,6 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div>
 
 ---
