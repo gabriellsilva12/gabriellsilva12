@@ -2,8 +2,8 @@
 
 I'm a Web Developer in training focused on Front-end development, with growing knowledge in Full Stack technologies. I enjoy building user interfaces, solving problems and continuously improving my development skills.
 
-💻 Front-end Developer in training
-📚 Currently studying: JavaScript, TypeScript, Node.js, Express, MongoDB, React.
+💻 Front-end Developer in training. <br> 
+📚 Currently studying: JavaScript, TypeScript, Node.js, Express, MongoDB, React. <br>
 🚀 Seeking my first developer opportunity
 
 ---
