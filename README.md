@@ -1,12 +1,14 @@
-# 👋 Olá! Eu sou o Gabriel Silva
+# 👋 Hi, I'm Gabriel Silva
 
-💻 Desenvolvedor Front-end em formação  
-📚 Estudando: JavaScript, Node.js, Express, MongoDB, Webpack  
-🚀 Buscando minha primeira oportunidade como desenvolvedor  
+I'm a Web Developer in training focused on Front-end development, with growing knowledge in Full Stack technologies. I enjoy building user interfaces, solving problems and continuously improving my development skills.
+
+💻 Front-end Developer in training
+📚 Currently studying: JavaScript, TypeScript, Node.js, Express, MongoDB, React.
+🚀 Seeking my first developer opportunity
 
 ---
 
-## 🔧 Tecnologias que uso / estou estudando
+## 🛠 Technologies I use / I'm learning
 <div style="display: flex; gap: 10px;">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -15,14 +17,18 @@
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  
 </div>
 
 ---
 
-## 📬 Como me encontrar
+## 📫 How to reach me
 📧 Email: *gabrielsilvadev2@gmail.com*  
 🔗 LinkedIn: *www.linkedin.com/in/gabrielsilva-dev8262*
 
 ---
 
-⭐ Sempre aprendendo e criando projetos para evoluir como desenvolvedor.
+⭐ Always learning and building projects to grow as a developer.
