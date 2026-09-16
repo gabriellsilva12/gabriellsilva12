@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">• Developer focused on building web applications and REST APIs<br>• Working with JavaScript, TypeScript, React and Node.js<br>• Experience with Express, MongoDB, SQLite and Sequelize<br>• Currently deepening my knowledge of backend development and architecture<br>• Focused on building practical projects and growing professionally</p>
+<p data-importer="text" align="left">• Building web applications and REST APIs<br>• React and TypeScript for frontend development<br>• Node.js and Express for backend development<br>• Working with MongoDB, SQLite and Sequelize<br>• Interested in clean architecture, security and scalable applications</p>
 
 ###
 
@@ -44,13 +44,17 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/gabriellsilva12/gabriellsilva12/snake-output/snake.svg" alt="Snake animation" />
+<picture align="center">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriellsilva12/gabriellsilva12/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriellsilva12/gabriellsilva12/output/github-contribution-grid-snake-dark.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabriellsilva12/gabriellsilva12/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
 <br clear="both">
 
-<h3 data-importer="text" align="left">Let's Connect</h3>
+<h2 data-importer="text" align="left">Let's Connect</h2>
 
 ###
 
@@ -58,13 +62,13 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/gabrielsilva-dev8262/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gabriellsilva_19/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
-  <a href="gabrielsilvadev2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+  <a href="gsilva04950@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
 </div>
 
